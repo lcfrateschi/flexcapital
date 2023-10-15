@@ -13,7 +13,7 @@
   </a>
 
 <h2 align="center">Software para operações automatizadas ( Conjuntos de regras e I.A )</h2>
-<h2 align="center">Demo Screens</h2>
-
+<h2 align="center">Demo Screens in Work</h2>
+ 
 ![image](https://github.com/lcfrateschi/flexcapital/assets/47075313/2262169c-f86b-4f11-875d-86c4b37d9963)
 
